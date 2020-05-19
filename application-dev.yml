@@ -9,3 +9,4 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8801/eureka/
+lover: ztt
